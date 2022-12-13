@@ -4,7 +4,7 @@
 <head>
 	<title>
 		Login and Registration
-		
+		System - LAMP Stack
 	</title>
 	
 	<link rel="stylesheet" type="text/css"
